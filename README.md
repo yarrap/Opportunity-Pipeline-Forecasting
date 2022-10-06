@@ -11,9 +11,13 @@ Quality of an opportunity: How likely is an opportunity to convert within a spec
 **Data:**
 
 Company will provide the following data for the project:
+
 All Opportunities along with relevant product sells, across different customers from 2015 to 2016 - Q3
+
 Company will also provide a clear and detailed description of the dataset including all the fields present. Company will make available knowledgeable personnel to provide any necessary background on data and business context. These personnel will also help Tiger in working with the end consumers of our models and identifying which features could be actionable. They would also help in corroborating findings from the models and can help provide an insider’s business perspective into the forecasting models.
+
 Additional Data Explanation:
+
 Stages: The stages in the file have a number. Following is a description and progression: 
 [ 6: Qualify ]->[ 5 : Define]->[ 3: Develop ]->[ 2: Design ]->[ 4: Design Win ]->[ 9: Production Win ] 
 Ignore: Stage 7: Group
