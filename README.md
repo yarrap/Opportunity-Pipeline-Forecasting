@@ -8,6 +8,7 @@ The sales enablement group of the same organization has identified that while a 
 
 Quality of an opportunity: How likely is an opportunity to convert within a specific timeframe? 
 
+
 **Data:**
 
 Company will provide the following data for the project:
@@ -33,23 +34,37 @@ Unassigned Geographies: Geo NA or Geo 1
 
 Demonstrates:
 
-Understands movement of Opportunities lines through stages
-Is able to pictorially represent transition between stages
-Tests suitable hypothesis:
-Is time taken between stage transitions significantly different across geographies?
-Are Losses (Opportunity lines in Lost stage) more likely to happen in early stages (Qualify and define)
-Does the proportion of Won lines in an Opportunity significantly different across Product Categories?
-Develop appropriate charts to represent above tests
-Create a structured report with missing data and impute with appropriate justification
+1. Understands movement of Opportunities lines through stages
+
+2. Is able to pictorially represent transition between stages
+
+3. Tests suitable hypothesis:
+
+a)Is time taken between stage transitions significantly different across geographies?
+
+b)Are Losses (Opportunity lines in Lost stage) more likely to happen in early stages (Qualify and define)
+
+c) Does the proportion of Won lines in an Opportunity significantly different across Product Categories?
+
+4. Develop appropriate charts to represent above tests
+
+5. Create a structured report with missing data and impute with appropriate justification
+
 
 **Score opportunities for likelihood of conversion.**
 
 Demonstrates:
 
-Merge Opportunity with Product data (monthly snapshot)
-Creates a dependant variable based on movement to a "win" stage
-Performs appropriate categorical data transformation
-Builds a Logistic model
-Selects suitable variables
-Explains model and outcome and key drivers
-Shows results on a hold out
+1. Merge Opportunity with Product data (monthly snapshot)
+
+2. Creates a dependant variable based on movement to a "win" stage
+
+3. Performs appropriate categorical data transformation
+
+4. Builds a Logistic model
+
+5. Selects suitable variables
+
+6. Explains model and outcome and key drivers
+
+7. Shows results on a hold out
