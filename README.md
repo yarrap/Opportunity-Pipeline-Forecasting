@@ -1,4 +1,4 @@
-# Opportunity-Pipeline-Forecasting
+# Opportunity-Pipeline-Forecasting - Problem Statement
 
 **Background:**
 
@@ -28,6 +28,7 @@ Unassigned Geographies: Geo NA or Geo 1
 **Data Preparation from Opportunity header and transactional Tables.**
 
 Demonstrates:
+
 Understands movement of Opportunities lines through stages
 Is able to pictorially represent transition between stages
 Tests suitable hypothesis:
@@ -40,6 +41,7 @@ Create a structured report with missing data and impute with appropriate justifi
 **Score opportunities for likelihood of conversion.**
 
 Demonstrates:
+
 Merge Opportunity with Product data (monthly snapshot)
 Creates a dependant variable based on movement to a "win" stage
 Performs appropriate categorical data transformation
