@@ -1,11 +1,14 @@
 # Opportunity-Pipeline-Forecasting
 
-Background:
+**Background:
 
 The sales group of a technology and chip manufacturing company is provided with annual targets in $ that they need to sell. The team tries to achieve the same by pursuing multiple opportunities (an opportunity can be defined as a potential customer with specific asks of products in type, design and quantity with their $ values negotiated) across customers and business segments.
+
 The sales enablement group of the same organization has identified that while a number of opportunities are being pursued, the sales group lacks a means to quantify the potential of conversion of these group of opportunities (hereon referred as sales pipeline portfolio) within a specific timeframe (say a quarter). The conversion potential of a sales pipeline portfolio is realized by,
+
 Quality of an opportunity: How likely is an opportunity to convert within a specific timeframe? 
-Data:
+
+**Data:
 
 Company will provide the following data for the project:
 All Opportunities along with relevant product sells, across different customers from 2015 to 2016 - Q3
