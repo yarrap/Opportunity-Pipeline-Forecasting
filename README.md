@@ -8,7 +8,7 @@ The sales enablement group of the same organization has identified that while a 
 
 Quality of an opportunity: How likely is an opportunity to convert within a specific timeframe? 
 
-**Data:
+**Data:**
 
 Company will provide the following data for the project:
 All Opportunities along with relevant product sells, across different customers from 2015 to 2016 - Q3
@@ -23,9 +23,9 @@ Geographies to Ignore:
 Unassigned Geographies: Geo NA or Geo 1
 
 
-Deliverables:
+**Deliverables:**
 
-Data Preparation from Opportunity header and transactional Tables.
+**Data Preparation from Opportunity header and transactional Tables.**
 
 Demonstrates:
 Understands movement of Opportunities lines through stages
@@ -37,7 +37,7 @@ Does the proportion of Won lines in an Opportunity significantly different acros
 Develop appropriate charts to represent above tests
 Create a structured report with missing data and impute with appropriate justification
 
-Score opportunities for likelihood of conversion.
+**Score opportunities for likelihood of conversion.**
 
 Demonstrates:
 Merge Opportunity with Product data (monthly snapshot)
