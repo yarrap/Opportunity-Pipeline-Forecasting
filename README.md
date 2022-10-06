@@ -1,6 +1,6 @@
 # Opportunity-Pipeline-Forecasting
 
-#Background:
+**Background:**
 
 The sales group of a technology and chip manufacturing company is provided with annual targets in $ that they need to sell. The team tries to achieve the same by pursuing multiple opportunities (an opportunity can be defined as a potential customer with specific asks of products in type, design and quantity with their $ values negotiated) across customers and business segments.
 
