@@ -67,4 +67,3 @@ Demonstrates:
 
 6. Explains model and outcome and key drivers
 
-7. Shows results on a hold out
